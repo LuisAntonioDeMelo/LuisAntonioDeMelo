@@ -1,32 +1,21 @@
-
 <h1 align="center">Hi, I'm Luís Antônio</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/luisantoniodemelo/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Luis Antonio-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/luisantoniodemelo/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Luis Antonio-blue?style=flat&logo=linkedin"></a>
+</p>
 
-<div>
+<div align="center">
   <a href="https://github.com/LuisAntonioDeMelo">
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuisAntonioDeMelo&include_all_commits=true&count_private=true&theme=dark" alt="malek-laatiri" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisAntonioDeMelo&layout=compact&show_icons=true&locale=en&theme=dark" alt="LuisAntonioDeMelo" />
-</a>
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=LuisAntonioDeMelo&include_all_commits=true&count_private=true&theme=dark" 
+       alt="LuisAntonioDeMelo" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisAntonioDeMelo&layout=compact&show_icons=true&locale=en&theme=dark"                              alt="LuisAntonioDeMelo" />
+  </a>
 </div>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LuisAntonioDeMelo)](https://github.com/LuisAntonioDeMelo/github-profile-trophy)
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://maleklaatiri.tn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/wassef911" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/malek-laatiri-a3515215b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/malek-laatiri-a3515215b/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/malek.laatiri.9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/malek.laatiri.9/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/malek.laatiri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.facebook.com/malek.laatiri.9/" height="30" width="40" /></a>
- <a href="https://www.fiverr.com/maleklaatiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg" alt="https://www.facebook.com/malek.laatiri.9/" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/10554673/malek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10554673/malek" height="30" width="40" /></a> -->
-</p>
- <br/>
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+<h3 align="left">Tech's</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
@@ -48,3 +37,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
+
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=LuisAntonioDeMelo)](https://github.com/LuisAntonioDeMelo/github-profile-trophy)-->
+
